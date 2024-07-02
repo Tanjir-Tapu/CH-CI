@@ -1,0 +1,12 @@
+.nav-w{
+    margin-left: 200px;
+    margin-right: 200px ;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.ul-c{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
