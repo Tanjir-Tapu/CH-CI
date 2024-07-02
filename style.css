@@ -27,30 +27,35 @@
     margin-left: 200px;
     margin-right: 200px;
 }
+
 .img {
     max-width: 700px;
     height: auto;
     margin-left: 100px;
 }
-.p-m{
+
+.p-m {
     margin-left: 100px;
     margin-right: 700px;
 }
-.logo-img{
+
+.logo-img {
     max-width: 40px;
     height: auto;
 }
-    
-.logo-class{
+
+.logo-class {
     list-style: none;
     margin-left: 10px;
 
 }
-.uiforli{
+
+.uiforli {
     display: flex;
     margin-right: 100px;
 }
-.p-ui{
+
+.p-ui {
     display: flex;
     justify-content: space-between;
     align-items: center;
