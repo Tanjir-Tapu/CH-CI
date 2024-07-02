@@ -40,7 +40,18 @@
     max-width: 40px;
     height: auto;
 }
+    
 .logo-class{
+    list-style: none;
+    margin-left: 10px;
+
+}
+.uiforli{
+    display: flex;
+    margin-right: 100px;
+}
+.p-ui{
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
